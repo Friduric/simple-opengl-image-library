@@ -15,7 +15,7 @@ In Visual Studio (2010-2015) you also need to do the following:
 4. `Project -> Properties -> Linker` :: Add `libs` to "Additional Library Directories".
 
 
-Now simply write `#include <SOIL\SOIL.h>` whenever you need to use SOIL.
+Now simply include SOIL (`#include <SOIL\SOIL.h>`) whenever you need to use SOIL.
 
 # Other
 This SOIL library correctly removes the following errors (that the official SOIL lib has):
