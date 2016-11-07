@@ -1,5 +1,5 @@
 # About
-Pre-built and working Simple OpenGL Image Library (SOIL) compatible with modern C++11. Compatible with Visual Studio 2015.
+Pre-built and working Simple OpenGL Image Library (SOIL) compatible with C++11. Compatible with Visual Studio 2015.
 
 # How to use
 **Add the "libs" and "include" folders to your project.** 
