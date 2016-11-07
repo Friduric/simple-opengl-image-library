@@ -2,7 +2,7 @@
 Pre-built and working Simple OpenGL Image Library (SOIL) for modern C++11. Compatible with modern versions of Visual Studio.
 
 # How to use
-Simply add the "libs" and "include" folder to your project. 
+**Add the "libs" and "include" folders to your project.** 
 
 In Visual Studio (2010-2015) you also need to do the following:
 
