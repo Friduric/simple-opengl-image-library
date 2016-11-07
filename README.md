@@ -18,7 +18,7 @@ In Visual Studio (2010-2015) you also need to do the following:
 Now simply include SOIL (`#include <SOIL\SOIL.h>`) whenever you need to use SOIL.
 
 # Other
-This SOIL library correctly removes the following errors (that the official SOIL lib has):
+This SOIL library correctly removes and solves the following (official SOIL lib) errors:
 
 `1>LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library`
 
