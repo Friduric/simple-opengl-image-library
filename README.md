@@ -10,12 +10,14 @@ In Visual Studio (2010-2015) you also need to do the following:
 
 2. `Project -> Properties -> VC++ Directories` -> **Add** `libs` **to "Library Directories".**
 
-3. `Project -> Properties -> C/C++` -> **Add** `include` **to "Additional Include Directories".**
+Alternatively:
 
-4. `Project -> Properties -> Linker` -> **Add** `libs` **to "Additional Library Directories".**
+1. `Project -> Properties -> C/C++` -> **Add** `include` **to "Additional Include Directories".**
+
+2. `Project -> Properties -> Linker` -> **Add** `libs` **to "Additional Library Directories".**
 
 
-Now include SOIL (`#include <SOIL\SOIL.h>`) whenever you need to use SOIL.
+Include SOIL (`#include <SOIL\SOIL.h>`) whenever you need to use SOIL.
 
 # Other
 This SOIL library correctly removes and solves the following (official SOIL lib) errors:
